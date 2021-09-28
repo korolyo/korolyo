@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @korolyo
 - 👀 I’m interested in CS and especially frontend/backend.
-- 🌱 I’m currently learning C, C++, Java  little bit of React.
+- 🌱 I’m currently learning C, C++, Java, little bit of Python.
 - 💞️ I’m constantly looking to collaborate on some interesting projects
 - 📫 You are always welcome to korolyo@gmail.com
 
