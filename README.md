@@ -1,3 +1,5 @@
+If you are here to copy my code - you have to know that i took it from someone else
+
 - Hi, I’m @korolyo. Now i am a cadet of Ecole 42 (Shkola 21) in Moscow. 
 - I’m interested in CS and especially Java backend.
 - I’m currently learning Java, C, C++, little bit of Python, Scala.
